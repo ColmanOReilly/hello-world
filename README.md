@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Just Another Repositories
+Hi my name is Colman O Reilly
+
+I like learning new code
